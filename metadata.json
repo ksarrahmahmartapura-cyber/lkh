@@ -1,0 +1,6 @@
+{
+  "name": "Koperasi Ledger & Kwitansi",
+  "description": "Sistem Pembukuan Kas Harian (LKH) dan Penerbitan Kwitansi Terverifikasi Koperasi Simpan Pinjam dengan Standar Dokumen Sah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
